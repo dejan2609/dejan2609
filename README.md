@@ -1,4 +1,5 @@
-# 👨‍💻 About Me
+## 👨‍💻 About Me
+> Hi there, I'm Dejan 👋 
 > build/release and DevOps engineer (Java, Scala, Android and more)
 
 ## 👥 Open Source Contributions:
