@@ -30,9 +30,9 @@
   - **[Expand gradle build: include Scala 2.13](https://github.com/apache/kafka/pull/5454)**
   - **[Remove redundant build code (unblock Gradle version upgrade from 6 to 7)](https://github.com/apache/kafka/pull/10466)**
   - **[Upgrade Gradle version from 6 to 7)](https://github.com/apache/kafka/pull/10606)**
-  - **Upgrade Gradle version from 7 to 8](https://github.com/apache/kafka/pull/13205)**
-  - **Switch Gradle Shadow plugin](https://github.com/apache/kafka/pull/18018)**
-  - **Upgrade Gradle version from 8 to 9](https://github.com/apache/kafka/pull/19513)**
+  - **[Upgrade Gradle version from 7 to 8](https://github.com/apache/kafka/pull/13205)**
+  - **[Switch Gradle Shadow plugin](https://github.com/apache/kafka/pull/18018)**
+  - **[Upgrade Gradle version from 8 to 9](https://github.com/apache/kafka/pull/19513)**
 
 ### Maven contributions:
 #### OWASP dependency-check:
