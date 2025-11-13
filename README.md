@@ -22,8 +22,8 @@
 
 ## 👥 Open Source
 
-### Gradle contributions:
-#### Apache Kafka project: 
+### Gradle contributions ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white):
+#### Apache Kafka project: ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 - **All Kafka Gradle commits in one place:** 
   - https://github.com/apache/kafka/commits?author=dejan2609
 - notable pull requests (highlights):
@@ -34,14 +34,14 @@
   - **[Switch Gradle Shadow plugin](https://github.com/apache/kafka/pull/18018)**
   - **[Upgrade Gradle version from 8 to 9](https://github.com/apache/kafka/pull/19513)**
 
-### Maven contributions:
+### Maven contributions ![Maven]((https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white))
 #### OWASP dependency-check:
 - **[Maven build: enforce explicit Java 6 compatibility](https://github.com/dependency-check/DependencyCheck/issues/638)**
 
 #### Yahoo Fili:
 - https://github.com/yahoo/fili/commits?author=dejan2609
 
-### Java contributions: 
+### Java contributions ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 - Apache Maven project: https://github.com/apache/maven/commits?author=dejan2609
 
 ## 📚 Issue reporting:
