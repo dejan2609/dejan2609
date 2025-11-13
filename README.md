@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 > Hi there, I'm Dejan 👋 
-> build/release and DevOps engineer (Java, Scala, Android and more)
+> build/release and DevOps engineer: Java, Scala, Android (and more) 🔀 desktop, web and mobile apps
 
 ## 👥 Open Source Contributions:
 ### ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
@@ -23,7 +23,7 @@
 
 ## 🛠 Tech Stack
 ### Build related tools
-- Ant/Ivy, Maven, Gradle, SBT
+- Ant (+ Ivy), Maven, Gradle, SBT
 - Jenkins, Bamboo, Github Actions
 - SonarQube, Nexus, Artifactory
 
