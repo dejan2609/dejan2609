@@ -20,7 +20,7 @@
 - AWS
 - Kubernetes
 
-## 👥 Open Source
+## 👥 Open Source Contributions:
 
 ### ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 - **All Kafka Gradle commits in one place:** 
@@ -33,15 +33,12 @@
   - **[Switch Gradle Shadow plugin](https://github.com/apache/kafka/pull/18018)**
   - **[Upgrade Gradle version from 8 to 9](https://github.com/apache/kafka/pull/19513)**
 
-### ![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+### ![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+- #### Apache Maven project: https://github.com/apache/maven/commits?author=dejan2609
 - #### OWASP dependency-check:
   - **[Maven build: enforce explicit Java 6 compatibility](https://github.com/dependency-check/DependencyCheck/issues/638)**
-
 - #### Yahoo Fili:
   - https://github.com/yahoo/fili/commits?author=dejan2609
-
-### ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-- Apache Maven project: https://github.com/apache/maven/commits?author=dejan2609
 
 ## 📚 Issue reporting:
 - Gradle: https://github.com/gradle/gradle/issues/23962
