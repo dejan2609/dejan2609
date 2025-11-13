@@ -22,17 +22,16 @@
 
 ## 👥 Open Source
 
-### ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-- #### ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-  - **All Kafka Gradle commits in one place:** 
-    - https://github.com/apache/kafka/commits?author=dejan2609
-  - notable pull requests (highlights):
-    - **[Expand gradle build: include Scala 2.13](https://github.com/apache/kafka/pull/5454)**
-    - **[Remove redundant build code (unblock Gradle version upgrade from 6 to 7)](https://github.com/apache/kafka/pull/10466)**
-    - **[Upgrade Gradle version from 6 to 7)](https://github.com/apache/kafka/pull/10606)**
-    - **[Upgrade Gradle version from 7 to 8](https://github.com/apache/kafka/pull/13205)**
-    - **[Switch Gradle Shadow plugin](https://github.com/apache/kafka/pull/18018)**
-    - **[Upgrade Gradle version from 8 to 9](https://github.com/apache/kafka/pull/19513)**
+### ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+- **All Kafka Gradle commits in one place:** 
+  - https://github.com/apache/kafka/commits?author=dejan2609
+- notable Kafka Gradle pull requests (highlights):
+  - **[Expand gradle build: include Scala 2.13](https://github.com/apache/kafka/pull/5454)**
+  - **[Remove redundant build code (unblock Gradle version upgrade from 6 to 7)](https://github.com/apache/kafka/pull/10466)**
+  - **[Upgrade Gradle version from 6 to 7)](https://github.com/apache/kafka/pull/10606)**
+  - **[Upgrade Gradle version from 7 to 8](https://github.com/apache/kafka/pull/13205)**
+  - **[Switch Gradle Shadow plugin](https://github.com/apache/kafka/pull/18018)**
+  - **[Upgrade Gradle version from 8 to 9](https://github.com/apache/kafka/pull/19513)**
 
 ### ![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 - #### OWASP dependency-check:
