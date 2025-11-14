@@ -40,12 +40,12 @@
 - AWS
 - Kubernetes
 
-## 🐛 Issue reporting: 🪲
-- Gradle: https://github.com/gradle/gradle/issues/23962
+## 🐛 Issue reporting: 🪲 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)[![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#)[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+- **[Regression in Gradle 8.0.1 (corner case for Scala 2.13 build)](https://github.com/gradle/gradle/issues/23962)**
 - IntelliJ Idea: https://youtrack.jetbrains.com/issues?q=by:%20dejan2609
 - GitLab [(note: link requires Google login)](https://gitlab.com/dashboard/issues?sort=created_date&state=all&author_username=dejan2609)
 - <details>
-      <summary>click here to see issue created on Apache JIRA instance</summary>
+      <summary>click here to see issues created on Apache JIRA instance</summary>
     
     - **[KAFKA-19792 Gradle build fails after Swagger patch version update](https://issues.apache.org/jira/browse/KAFKA-19792)**
     - **[KAFKA-19809 CheckStyle version upgrade: 10 -->> 12](https://issues.apache.org/jira/browse/KAFKA-19809)**
