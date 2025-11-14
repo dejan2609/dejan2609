@@ -44,7 +44,7 @@
 - Gradle: https://github.com/gradle/gradle/issues/23962
 - IntelliJ Idea: https://youtrack.jetbrains.com/issues?q=by:%20dejan2609
 - GitLab [(note: link requires Google login)](https://gitlab.com/dashboard/issues?sort=created_date&state=all&author_username=dejan2609)
-  - <details>
+- <details>
       <summary>click here to see issue created on Apache JIRA instance</summary>
     
     - **[KAFKA-19792 Gradle build fails after Swagger patch version update](https://issues.apache.org/jira/browse/KAFKA-19792)**
