@@ -40,7 +40,7 @@
 - AWS
 - Kubernetes
 
-## 🐛 Issue reporting:
+## 🐛 Issue reporting: 🪲
 - Gradle: https://github.com/gradle/gradle/issues/23962
 - Apache Maven: https://issues.apache.org/jira/browse/MNG-6282
 - IntelliJ Idea: https://youtrack.jetbrains.com/issues?q=by:%20dejan2609
