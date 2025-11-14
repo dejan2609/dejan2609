@@ -45,3 +45,9 @@
 - Apache Maven: https://issues.apache.org/jira/browse/MNG-6282
 - IntelliJ Idea: https://youtrack.jetbrains.com/issues?q=by:%20dejan2609
 - GitLab [(note: link requires Google login)](https://gitlab.com/dashboard/issues?sort=created_date&state=all&author_username=dejan2609)
+- <details>
+    <summary>ASF JIRA instance</summary>
+    **[KAFKA-19809 CheckStyle version upgrade: 10 -->> 12](https://issues.apache.org/jira/browse/KAFKA-19809)**
+    **[KAFKA-19792 Gradle build fails after Swagger patch version update](https://issues.apache.org/jira/browse/KAFKA-19792)**
+  
+</details>
