@@ -21,7 +21,7 @@
 - #### Yahoo Fili project:
     - https://github.com/yahoo/fili/commits?author=dejan2609
 
-## ⚒️ Tech Stack
+## 🛠️ Tech Stack ⚒️
 ### Build related tools
 - Ant (+ Ivy), Maven, Gradle, SBT
 - Jenkins, Bamboo, Github Actions
