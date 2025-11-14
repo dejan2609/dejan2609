@@ -49,7 +49,7 @@
       <summary>click here to see 30+ issues I created on Apache JIRA instance:</summary>
 
   - **[BCEL-377    Fix testing on Java 24 and up](https://issues.apache.org/jira/browse/BCEL-377)**
-  - **[MNG-6282    Console output has no colors in shell](both Git Bash and Cygwin) [regression in Jansi 1.16 / Maven 3.5.1]](https://issues.apache.org/jira/browse/MNG-6282)**
+  - **[MNG-6282    Console output has no colors in shell (both Git Bash and Cygwin) [regression in Jansi 1.16 / Maven 3.5.1]](https://issues.apache.org/jira/browse/MNG-6282)**
   - **[KAFKA-19809 CheckStyle version upgrade: 10 -->> 12](https://issues.apache.org/jira/browse/KAFKA-19809)**
   - **[KAFKA-19792 Gradle build fails after Swagger patch version update](https://issues.apache.org/jira/browse/KAFKA-19792)**
   - **[KAFKA-19783 Custom Gradle tasks (`unitTest` and `integrationTest`) are not executing tests in Gradle 9](https://issues.apache.org/jira/browse/KAFKA-19783)**
@@ -78,14 +78,5 @@
   - **[KAFKA-8466 	Remove 'jackson-module-scala' dependency (and replace it with some code)](https://issues.apache.org/jira/browse/KAFKA-8466)**
   - **[KAFKA-8009 	Uppgrade Jenkins job Gradle version from 4.10.2 to 5.x](https://issues.apache.org/jira/browse/KAFKA-8009)**
   - **[KAFKA-5708 	Update Jackson dependencies (from 2.8.5 to 2.9.x)](https://issues.apache.org/jira/browse/KAFKA-5708)**
-
-
-          		
- 
-          
-    
-      - **[KAFKA-19792 Gradle build fails after Swagger patch version update](https://issues.apache.org/jira/browse/KAFKA-19792)**
-      - **[KAFKA-19809 CheckStyle version upgrade: 10 -->> 12](https://issues.apache.org/jira/browse/KAFKA-19809)**
-      - **[MNG-6282    Console output has no colors in shell (both Git Bash and Cygwin) [regression in Jansi 1.16 / Maven 3.5.1]](https://issues.apache.org/jira/browse/MNG-6282)**  
   
 </details>
