@@ -19,7 +19,11 @@
 - #### OWASP dependency-check project:
     - **[Maven build: enforce explicit Java 6 compatibility](https://github.com/dependency-check/DependencyCheck/issues/638)**
 - #### Yahoo Fili project:
-    - https://github.com/yahoo/fili/commits?author=dejan2609
+    -  https://github.com/yahoo/fili/commits?author=dejan2609
+- #### Google libphonenumber:
+    - **['animal-sniffer-maven' plugin: version upgrade](https://github.com/google/libphonenumber/pull/2349)**
+- #### Picocli project:
+    - **[Solve build issues for Maven users](https://github.com/remkop/picocli/pull/1292)**
 
 ## 🛠️ Tech Stack ⚒️
 ### Build related tools
