@@ -50,7 +50,7 @@
 - IntelliJ Idea: https://youtrack.jetbrains.com/issues?q=by:%20dejan2609
 - GitLab [(note: link requires Google login)](https://gitlab.com/dashboard/issues?sort=created_date&state=all&author_username=dejan2609)
 - <details>
-      <summary>click here to see 30+ issues I created on Apache JIRA instance:</summary>
+      <summary> 💡 click here to expand/collapse 30+ issues I created on Apache JIRA instance:</summary>
 
   - **[BCEL-377    Fix testing on Java 24 and up](https://issues.apache.org/jira/browse/BCEL-377)**
   - **[MNG-6282    Console output has no colors in shell (both Git Bash and Cygwin) [regression in Jansi 1.16 / Maven 3.5.1]](https://issues.apache.org/jira/browse/MNG-6282)**
