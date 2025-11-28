@@ -26,7 +26,7 @@
     - **[Solve build issues for Maven users](https://github.com/remkop/picocli/pull/1292)**
 
 ## 🛠️ Tech Stack ⚒️
-### Build related tools
+### 🔨 Build related tools
 - Ant (+ Ivy), Maven, Gradle, SBT
 - Jenkins, Bamboo, Github Actions
 - SonarQube, Nexus, Artifactory
