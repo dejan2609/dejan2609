@@ -6,7 +6,7 @@
 ### ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 - **All Kafka Gradle commits in one place:**
     - https://github.com/apache/kafka/commits?author=dejan2609
-- notable Kafka Gradle pull requests (highlights):
+- 🎯 **highlights** (notable Kafka Gradle pull requests):
     - **[Expand gradle build: include Scala 2.13](https://github.com/apache/kafka/pull/5454)**
     - **[Remove redundant build code (unblock Gradle version upgrade from 6 to 7)](https://github.com/apache/kafka/pull/10466)**
     - **[Upgrade Gradle version from 6 to 7](https://github.com/apache/kafka/pull/10606)**
@@ -31,6 +31,11 @@
 - Jenkins, Bamboo, Github Actions
 - SonarQube, Nexus, Artifactory
 
+### 🔩 Containers, cloud, etc.
+- Linux
+- AWS
+- Kubernetes
+
 ### I also created pipelines for languages outside of JVM universe:
 - Python
 - Ryby
@@ -38,11 +43,6 @@
 - Node.JS/ React
 - iPhone mobile apps
 - SQL (via [Flyway](https://github.com/flyway/flyway))
-
-### Containers, cloud, etc.
-- Linux
-- AWS
-- Kubernetes
 
 ## 🐛 Issue reporting: 🪲  
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)[![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#)[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
