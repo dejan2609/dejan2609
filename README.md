@@ -23,16 +23,6 @@
 | Google LibPhoneNumber  | **['animal-sniffer-maven' plugin: version upgrade](https://github.com/google/libphonenumber/pull/2349)** |
 | Picocli                | **[Solve build issues for Maven users](https://github.com/remkop/picocli/pull/1292)** |
 
-- #### Apache Maven project: https://github.com/apache/maven/commits?author=dejan2609
-- #### OWASP dependency-check project:
-    - **[Maven build: enforce explicit Java 6 compatibility](https://github.com/dependency-check/DependencyCheck/issues/638)**
-- #### Yahoo Fili project:
-    -  https://github.com/yahoo/fili/commits?author=dejan2609
-- #### Google libphonenumber:
-    - **['animal-sniffer-maven' plugin: version upgrade](https://github.com/google/libphonenumber/pull/2349)**
-- #### Picocli project:
-    - **[Solve build issues for Maven users](https://github.com/remkop/picocli/pull/1292)**
-
 ## 🤝 Adding Kafka into CheckStyle regression test suite
 Note: this was a joint effort with [@romani](https://github.com/romani) and [@stoyanK7](https://github.com/stoyanK7) from [Checkstyle](https://github.com/checkstyle/checkstyle) team:
 - https://github.com/apache/kafka/pull/10967
