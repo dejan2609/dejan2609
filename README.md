@@ -25,6 +25,16 @@
 - #### Picocli project:
     - **[Solve build issues for Maven users](https://github.com/remkop/picocli/pull/1292)**
 
+## 🤝 Adding Kafka into CheckStyle regression test suite
+Note: this was a joint effort with [@romani](https://github.com/romani) and [@stoyanK7](https://github.com/stoyanK7) from [Checkstyle](https://github.com/checkstyle/checkstyle) team:
+- https://github.com/apache/kafka/pull/10967
+- https://github.com/checkstyle/checkstyle/issues/16003
+- https://github.com/checkstyle/checkstyle/pull/16395
+- https://github.com/checkstyle/checkstyle/pull/18263
+- https://github.com/apache/kafka/pull/20726
+- https://github.com/checkstyle/checkstyle/issues/18272
+- https://github.com/checkstyle/checkstyle/pull/18294
+
 ## 🛠️ Tech Stack ⚒️
 ### 🔨 Build related tools
 - Ant (+ Ivy), Maven, Gradle, SBT
