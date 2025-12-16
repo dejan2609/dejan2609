@@ -15,6 +15,14 @@
     - **[Upgrade Gradle version from 8 to 9](https://github.com/apache/kafka/pull/19513)**
 
 ### ![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+| project name           | commits and PR's |
+|:-----------------------|:-|
+| Apache Maven           | https://github.com/apache/maven/commits?author=dejan2609 |
+| OWASP dependency-check | **[Maven build: enforce explicit Java 6 compatibility](https://github.com/dependency-check/DependencyCheck/issues/638)** |
+| Yahoo Fili             | https://github.com/yahoo/fili/commits?author=dejan2609 |
+| Google LibPhoneNumber  | **['animal-sniffer-maven' plugin: version upgrade](https://github.com/google/libphonenumber/pull/2349)** |
+| Picocli                | **[Solve build issues for Maven users](https://github.com/remkop/picocli/pull/1292)** |
+
 - #### Apache Maven project: https://github.com/apache/maven/commits?author=dejan2609
 - #### OWASP dependency-check project:
     - **[Maven build: enforce explicit Java 6 compatibility](https://github.com/dependency-check/DependencyCheck/issues/638)**
