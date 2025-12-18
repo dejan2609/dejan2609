@@ -39,7 +39,7 @@ Note: this was a joint effort with [@romani](https://github.com/romani) and [@st
 - <details>
       <summary> 💡 <ins>Click here</ins> to expand (or collapse) the list of 30+ issues I created in the ASF (Apache Software Foundation) JIRA:</summary>
 
-  - **[BCEL-377    Fix testing on Java 24 and up](https://issues.apache.org/jira/browse/BCEL-377)** (with follow-up: **[Apache bcel version 6.11.0 and Java 25 build](https://github.com/spotbugs/spotbugs/pull/3763)**)
+  - **[BCEL-377    Fix testing on Java 24 and up](https://issues.apache.org/jira/browse/BCEL-377)** (with follow-up: **[SpotBugs release: Apache bcel version 6.11.0 and Java 25 build](https://github.com/spotbugs/spotbugs/pull/3763)**)
   - **[MNG-6282    Console output has no colors in shell (both Git Bash and Cygwin) [regression in Jansi 1.16 / Maven 3.5.1]](https://issues.apache.org/jira/browse/MNG-6282)**
   - **[KAFKA-19809 CheckStyle version upgrade: 10 -->> 12](https://issues.apache.org/jira/browse/KAFKA-19809)**
   - **[KAFKA-19792 Gradle build fails after Swagger patch version update](https://issues.apache.org/jira/browse/KAFKA-19792)**
