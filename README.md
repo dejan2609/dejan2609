@@ -41,6 +41,8 @@ Note: this was a joint effort with [@romani](https://github.com/romani) and [@st
 
   - **[BCEL-377    Fix testing on Java 24 and up](https://issues.apache.org/jira/browse/BCEL-377)** (with follow-up: **[SpotBugs release: Apache bcel version 6.11.0 and Java 25 build](https://github.com/spotbugs/spotbugs/pull/3763)**)
   - **[MNG-6282    Console output has no colors in shell (both Git Bash and Cygwin) [regression in Jansi 1.16 / Maven 3.5.1]](https://issues.apache.org/jira/browse/MNG-6282)**
+  - **[KAFKA-20062 [Suggestion] provide compatible CheckStyle version for a different Java versions](https://issues.apache.org/jira/browse/KAFKA-20062)**
+  - **[KAFKA-20061 slf4j-api version upgrade: 1 -->> 2](https://issues.apache.org/jira/browse/KAFKA-20061)**
   - **[KAFKA-19809 CheckStyle version upgrade: 10 -->> 12](https://issues.apache.org/jira/browse/KAFKA-19809)**
   - **[KAFKA-19792 Gradle build fails after Swagger patch version update](https://issues.apache.org/jira/browse/KAFKA-19792)**
   - **[KAFKA-19783 Custom Gradle tasks (`unitTest` and `integrationTest`) are not executing tests in Gradle 9](https://issues.apache.org/jira/browse/KAFKA-19783)**
