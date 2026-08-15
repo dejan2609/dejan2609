@@ -73,8 +73,10 @@ Note: this was a joint effort with [@romani](https://github.com/romani) and [@st
   - **[KAFKA-5708 	Update Jackson dependencies (from 2.8.5 to 2.9.x)](https://issues.apache.org/jira/browse/KAFKA-5708)**
 </details>
 
-- **[Regression in Gradle 8.0.1 (corner case for Scala 2.13 build)](https://github.com/gradle/gradle/issues/23962)**
-- **[Jacoco current version defaults to a Gradle built-in version](https://github.com/ben-manes/gradle-versions-plugin/issues/1028)**
+- **Gradle**: **[Regression in Gradle 8.0.1 (corner case for Scala 2.13 build)](https://github.com/gradle/gradle/issues/23962)**
+- **gradle-versions-plugin**:
+  - **[[v0.56.0 / Gradle 9.4.1 / large project] Jacoco current version defaults to a Gradle built-in version](https://github.com/ben-manes/gradle-versions-plugin/issues/1028)**
+  - **[[Follow up / test for #1028] Checking does jacoco version resolution works as expected with plugin version 0.57.0](https://github.com/ben-manes/gradle-versions-plugin/issues/1032)**
 - **IntelliJ Idea**: https://youtrack.jetbrains.com/issues?q=by:%20dejan2609
 - **GitLab** [(note: link requires Google login)](https://gitlab.com/dashboard/issues?sort=created_date&state=all&author_username=dejan2609)
 
