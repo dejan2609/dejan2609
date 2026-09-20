@@ -24,7 +24,8 @@
 | Google Lib Phone Number | **["animal-sniffer-maven" plugin: version upgrade](https://github.com/google/libphonenumber/pull/2349)**                  |
 | Picocli                 | **[Solve build issues for Maven users](https://github.com/remkop/picocli/pull/1292)**                                    |
 
-### 🤝 Kafka-CheckStyle collaboration: adding Kafka into CheckStyle regression test suite
+## 🤝 Collaborations:
+### Kafka-CheckStyle collaboration: adding Kafka into CheckStyle regression test suite
 Note: this was a joint effort with [@romani](https://github.com/romani) and [@stoyanK7](https://github.com/stoyanK7) from [Checkstyle](https://github.com/checkstyle/checkstyle) team:
  - https://github.com/apache/kafka/pull/10967
  - https://github.com/checkstyle/checkstyle/issues/16003
@@ -34,8 +35,16 @@ Note: this was a joint effort with [@romani](https://github.com/romani) and [@st
  - https://github.com/checkstyle/checkstyle/issues/18272
  - https://github.com/checkstyle/checkstyle/pull/18294
 
+### Collaboration with SpotBugs and Apache Commons BCEL:
+Kafka project Java 25 build was dependent on new SpotBugs version that was dependent on Apache Commons Byte Code Engineering Library (BCEL).  
+My role: I created few tickets and testing PR's in order to enable Kafka's Java 25 build.
+ - https://issues.apache.org/jira/browse/KAFKA-19664 Support building with Java 25 (LTS release)
+ - https://issues.apache.org/jira/browse/BCEL-377 Fix testing on Java 24 and up _(initial title: Could you please release Java 25 compatible version ?)_
+ - https://github.com/spotbugs/spotbugs/pull/3763 Apache bcel version 6.11.0 and Java 25 build
+ - https://github.com/apache/kafka/pull/20561 Support building with Java 25 (LTS release)
+
 ## 🐛 Issue reporting: 🪲
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)[![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#)[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)[![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#)
 - **Gradle**: **[Regression in Gradle 8.0.1 (corner case for Scala 2.13 build)](https://github.com/gradle/gradle/issues/23962)**
 - **gradle-versions-plugin**:
   - **[Jacoco current version defaults to a Gradle built-in version](https://github.com/ben-manes/gradle-versions-plugin/issues/1028)**
