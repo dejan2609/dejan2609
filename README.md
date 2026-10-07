@@ -51,10 +51,21 @@ My role: I created few tickets and testing PR's in order to enable Kafka's Java 
   - **[Checking does jacoco version resolution works as expected with plugin version 0.57.0](https://github.com/ben-manes/gradle-versions-plugin/issues/1032)**
 - **Apache Software Foundation**:
   - <details>
-        <summary> 💡 <ins>Click here</ins> to expand (or collapse) the list of 30+ issues I created in the ASF JIRA:</summary>
+        <summary> 💡 <ins>Click here</ins> to expand (or collapse) the list of 40+ issues I created in the ASF JIRA:</summary>
 
     - **[BCEL-377    Fix testing on Java 24 and up](https://issues.apache.org/jira/browse/BCEL-377)** (with follow-up: **[SpotBugs release: Apache bcel version 6.11.0 and Java 25 build](https://github.com/spotbugs/spotbugs/pull/3763)**)
     - **[MNG-6282    Console output has no colors in shell (both Git Bash and Cygwin) [regression in Jansi 1.16 / Maven 3.5.1]](https://issues.apache.org/jira/browse/MNG-6282)**
+    - **[KAFKA-21126 Version updates for build and project dependencies;`gradle-versions-plugin` reference has been moved to `settings.gradle`](https://issues.apache.org/jira/browse/KAFKA-21126)**
+    - **[KAFKA-21086 Drop GrGit dependency usage (in favor of existing Eclipse JGit)](https://issues.apache.org/jira/browse/KAFKA-21086)**
+    - **[KAFKA-21064 Apache RAT Gradle plugin version upgrade: 0.8.1 --> 0.11.0](https://issues.apache.org/jira/browse/KAFKA-21064)**
+    - **[RAT-575 [Regression] Slower RAT task execution with recent versions (0.17 and 0.18)](https://issues.apache.org/jira/browse/RAT-575)**
+    - **[RAT-576 Add overall statistics about scanned file types](https://issues.apache.org/jira/browse/RAT-576)**
+    - **[KAFKA-20943 Update Develocity related Gradle plugin versions](https://issues.apache.org/jira/browse/KAFKA-20943)**
+    - **[KAFKA-20882 Reduce build time: use lazy creation for Gradle tasks (i.e. use `tasks.register` instead of `task` or `tasks.create`)](https://issues.apache.org/jira/browse/KAFKA-20882)**
+    - **[KAFKA-20851 Version updates for build dependencies](https://issues.apache.org/jira/browse/KAFKA-20851)**
+    - **[KAFKA-20323 Refactor test method to enable Mockito version upgrade](https://issues.apache.org/jira/browse/KAFKA-20323)**
+    - **[KAFKA-20103 Properties should be assigned using the 'propName = value' syntax](https://issues.apache.org/jira/browse/KAFKA-20103)**
+    - **[KAFKA-20092 Dependencies version updates (for Gradle buildscript and project)](https://issues.apache.org/jira/browse/KAFKA-20092)**
     - **[KAFKA-20062 [Suggestion] provide compatible CheckStyle version for a different Java versions](https://issues.apache.org/jira/browse/KAFKA-20062)**
     - **[KAFKA-20061 slf4j-api version upgrade: 1 -->> 2](https://issues.apache.org/jira/browse/KAFKA-20061)**
     - **[KAFKA-19809 CheckStyle version upgrade: 10 -->> 12](https://issues.apache.org/jira/browse/KAFKA-19809)**
