@@ -4,8 +4,11 @@
 
 ## 👥 Open Source Contributions:
 ### ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-- **All Kafka Gradle commits in one place:**
-    - https://github.com/apache/kafka/commits?author=dejan2609
+<p>
+  <a href="https://github.com/apache/kafka/commits?author=dejan2609"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Drepo%3Aapache%2Fkafka%2Bauthor%3Adejan2609&query=%24.total_count&label=My%20Apache%20Kafka%20commits&color=blue" alt="My Apache Kafka commits" align="absmiddle"></a>
+  <a href="https://github.com/apache/kafka/commits?author=dejan2609">https://github.com/apache/kafka/commits?author=dejan2609</a>
+</p>
+
 - 🎯 **highlights** (notable Kafka Gradle pull requests):
     - **[Expand gradle build: include Scala 2.13](https://github.com/apache/kafka/pull/5454)**
     - **[Remove redundant build code (unblock Gradle version upgrade from 6 to 7)](https://github.com/apache/kafka/pull/10466)**
