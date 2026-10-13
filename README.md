@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/apache/kafka/commits?author=dejan2609"><img src="https://img.shields.io/badge/My%20Apache%20Kafka%20commits-0-blue?style=for-the-badge" alt="My Apache Kafka commits" align="absmiddle"></a>
+  <a href="https://github.com/apache/kafka/commits?author=dejan2609"><img src="https://img.shields.io/badge/My%20Apache%20Kafka%20commits-37-blue?style=for-the-badge" alt="My Apache Kafka commits" align="absmiddle"></a>
   <a href="https://github.com/apache/kafka/commits?author=dejan2609">https://github.com/apache/kafka/commits?author=dejan2609</a>
 </p>
 
