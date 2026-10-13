@@ -5,7 +5,12 @@
 ## 👥 Open Source Contributions:
 ### ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 <p>
-  <a href="https://github.com/apache/kafka/commits?author=dejan2609"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Drepo%3Aapache%2Fkafka%2Bauthor%3Adejan2609&query=%24.total_count&label=My%20Apache%20Kafka%20commits&color=blue" alt="My Apache Kafka commits" align="absmiddle"></a>
+  <a href="https://github.com/apache/kafka/commits?author=dejan2609"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Drepo%3Aapache%2Fkafka%2Bauthor%3Adejan2609&query=%24.total_count&label=My%20Apache%20Kafka%20commits&color=blue&style=for-the-badge" alt="My Apache Kafka commits" align="absmiddle"></a>
+  <a href="https://github.com/apache/kafka/commits?author=dejan2609">https://github.com/apache/kafka/commits?author=dejan2609</a>
+</p>
+
+<p>
+  <a href="https://github.com/apache/kafka/commits?author=dejan2609"><img src="https://img.shields.io/badge/My%20Apache%20Kafka%20commits-0-blue?style=for-the-badge" alt="My Apache Kafka commits" align="absmiddle"></a>
   <a href="https://github.com/apache/kafka/commits?author=dejan2609">https://github.com/apache/kafka/commits?author=dejan2609</a>
 </p>
 

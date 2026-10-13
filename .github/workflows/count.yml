@@ -1,0 +1,19 @@
+name: Update Kafka commit count
+on:
+  schedule: [{ cron: "0 3 * * *" }]   # daily at 03:00 UTC
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          COUNT=$(gh api "search/commits?q=repo:apache/kafka+author:dejan2609" --jq .total_count)
+          sed -i -E "s|(My%20Apache%20Kafka%20commits-)[0-9]+(-blue)|\1$COUNT\2|" README.md
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git diff --quiet || (git commit -am "Update Kafka commit count: $COUNT" && git push)
