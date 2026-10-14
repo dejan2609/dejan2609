@@ -52,6 +52,9 @@ My role: I created few tickets and testing PR's in order to enable Kafka's Java 
 - **gradle-versions-plugin**:
   - **[Jacoco current version defaults to a Gradle built-in version](https://github.com/ben-manes/gradle-versions-plugin/issues/1028)**
   - **[Checking does jacoco version resolution works as expected with plugin version 0.57.0](https://github.com/ben-manes/gradle-versions-plugin/issues/1032)**
+- **gradle RAT (Release Audit Tool) plugin**:
+  - **[task execution is quite long (after upgrading from 0.8.1)](https://github.com/eskatos/creadur-rat-gradle/issues/37)**
+  - **[[Corner case] build.gradle RAT task license configuration is reported as a license finding](https://github.com/eskatos/creadur-rat-gradle/issues/40)**
 - **Apache Software Foundation**:
   - <details>
         <summary> 💡 <ins>Click here</ins> to expand (or collapse) the list of 40+ issues I created in the ASF JIRA:</summary>
