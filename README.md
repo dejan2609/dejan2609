@@ -1,6 +1,9 @@
 ## 👨‍💻 About Me
-> Hi there, I'm Dejan 👋    
-> build/release and DevOps engineer: Java, Scala, Android (and more) 🔀 desktop, web and mobile apps
+> Hi there, I'm Dejan 👋
+>
+> I drove Apache Kafka's three major Gradle upgrades (6→7, 7→8, 8→9) and its Java 25 support, working with Kafka committers and upstream projects.
+>
+> DevOps and build/release engineer: Java, Scala, Android and more, across desktop, web and mobile apps.
 
 ## 👥 Open Source Contributions:
 ### ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
@@ -19,7 +22,7 @@
     - **[Support building with Java 25 (LTS release)](https://github.com/apache/kafka/pull/20561)**
 
 ### ![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-| project name            | commits and PR's                                                                                                         |
+| project name            | commits and PRs                                                                                                         |
 |:------------------------|:-------------------------------------------------------------------------------------------------------------------------|
 | Apache Maven            | https://github.com/apache/maven/commits?author=dejan2609                                                                 |
 | OWASP dependency-check  | **[Maven build: enforce explicit Java 6 compatibility](https://github.com/dependency-check/DependencyCheck/issues/638)** |
@@ -40,7 +43,7 @@ Note: this was a joint effort with [@romani](https://github.com/romani) and [@st
 
 ### Collaboration with SpotBugs and Apache Commons BCEL:
 Kafka project Java 25 build was dependent on new SpotBugs version that was dependent on Apache Commons Byte Code Engineering Library (BCEL).  
-My role: I created few tickets and testing PR's in order to enable Kafka's Java 25 build.
+My role: I created a few tickets and testing PRs in order to enable Kafka's Java 25 build.
  - https://issues.apache.org/jira/browse/KAFKA-19664 Support building with Java 25 (LTS release)
  - https://issues.apache.org/jira/browse/BCEL-377 Fix testing on Java 24 and up _(initial title: Could you please release Java 25 compatible version ?)_
  - https://github.com/spotbugs/spotbugs/pull/3763 Apache bcel version 6.11.0 and Java 25 build
@@ -57,7 +60,7 @@ My role: I created few tickets and testing PR's in order to enable Kafka's Java 
   - **[[Corner case] build.gradle RAT task license configuration is reported as a license finding](https://github.com/eskatos/creadur-rat-gradle/issues/40)**
 - **Apache Software Foundation**:
   - <details>
-        <summary> 💡 <ins>Click here</ins> to expand (or collapse) the list of 40+ issues I created in the ASF JIRA:</summary>
+        <summary><b>💡 <mark>Click here</mark> to expand (or collapse) the list of 40+ issues I created in the ASF JIRA</b></summary>
 
     - **[BCEL-377    Fix testing on Java 24 and up](https://issues.apache.org/jira/browse/BCEL-377)** (with follow-up: **[SpotBugs release: Apache bcel version 6.11.0 and Java 25 build](https://github.com/spotbugs/spotbugs/pull/3763)**)
     - **[MNG-6282    Console output has no colors in shell (both Git Bash and Cygwin) [regression in Jansi 1.16 / Maven 3.5.1]](https://issues.apache.org/jira/browse/MNG-6282)**
@@ -120,7 +123,7 @@ My role: I created few tickets and testing PR's in order to enable Kafka's Java 
 
 ### I also created build pipelines for languages outside JVM universe:
 - Python
-- Ryby
+- Ruby
 - Go
 - Node.JS/ React
 - iPhone mobile apps
