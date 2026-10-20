@@ -19,6 +19,7 @@
     - **[Upgrade Gradle version from 7 to 8](https://github.com/apache/kafka/pull/13205)**
     - **[Switch Gradle Shadow plugin](https://github.com/apache/kafka/pull/18018)**
     - **[Upgrade Gradle version from 8 to 9](https://github.com/apache/kafka/pull/19513)**
+    - **[CheckStyle version upgrade: 10 -->> 12](https://github.com/apache/kafka/pull/20726)**
     - **[Support building with Java 25 (LTS release)](https://github.com/apache/kafka/pull/20561)**
     - **[GrGit dependency is dropped in favor of Eclipse JGit](https://github.com/apache/kafka/pull/23450)**
     - **[Reduce build time: use tasks.register for Gradle tasks lazy creation](https://github.com/apache/kafka/pull/23016)**
