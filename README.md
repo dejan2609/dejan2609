@@ -12,7 +12,7 @@
   <a href="https://github.com/apache/kafka/commits?author=dejan2609">https://github.com/apache/kafka/commits?author=dejan2609</a>
 </p>
 
-- 🎯 **highlights** (notable Kafka Gradle pull requests):
+- 🎯 **highlights** (notable Kafka pull requests):
     - **[Expand gradle build: include Scala 2.13](https://github.com/apache/kafka/pull/5454)**
     - **[Remove redundant build code (unblock Gradle version upgrade from 6 to 7)](https://github.com/apache/kafka/pull/10466)**
     - **[Upgrade Gradle version from 6 to 7](https://github.com/apache/kafka/pull/10606)**
@@ -20,6 +20,9 @@
     - **[Switch Gradle Shadow plugin](https://github.com/apache/kafka/pull/18018)**
     - **[Upgrade Gradle version from 8 to 9](https://github.com/apache/kafka/pull/19513)**
     - **[Support building with Java 25 (LTS release)](https://github.com/apache/kafka/pull/20561)**
+    - **[GrGit dependency is dropped in favor of Eclipse JGit](https://github.com/apache/kafka/pull/23450)**
+    - **[Reduce build time: use tasks.register for Gradle tasks lazy creation](https://github.com/apache/kafka/pull/23016)**
+    - **[Upgrade argparse4 from 0.7.0 to 0.9.0](https://github.com/apache/kafka/pull/23796)**
 
 ### ![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 | project name            | commits and PRs                                                                                                         |
