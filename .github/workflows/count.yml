@@ -8,12 +8,17 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           COUNT=$(gh api "search/commits?q=repo:apache/kafka+author:dejan2609" --jq .total_count)
           sed -i -E "s|(My%20Apache%20Kafka%20commits-)[0-9]+(-blue)|\1$COUNT\2|" README.md
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
-          git diff --quiet || (git commit -am "Update Kafka commit count: $COUNT" && git push)
+          git diff --quiet && exit 0
+          # Commit via the API so GitHub signs it as github-actions[bot] (Verified)
+          gh api -X PUT "repos/${{ github.repository }}/contents/README.md" \
+            -f message="Update Kafka commit count: $COUNT" \
+            -f content="$(base64 -w0 README.md)" \
+            -f sha="$(git rev-parse HEAD:README.md)" \
+            -f branch="${{ github.ref_name }}" \
+            --jq .commit.html_url
